@@ -17,5 +17,5 @@ This app is designed for someone who wants to commit to a hobby or craft while s
 4. Keep track of your progress over time.
 
 ## Project Description PDF
-[Click here to view the Project Description](Programming%201%20Project%20Description%20-%20Gloire%20Mpoyi.pdf)
+[Click here to view the Project Description](Creative%201%20Habit%20Tracker%20Project.pdf)
 
